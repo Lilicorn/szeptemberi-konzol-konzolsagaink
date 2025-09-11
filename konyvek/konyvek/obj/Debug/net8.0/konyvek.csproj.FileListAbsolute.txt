@@ -1,0 +1,14 @@
+E:\School\konyvek\konyvek\bin\Debug\net8.0\konyvek.exe
+E:\School\konyvek\konyvek\bin\Debug\net8.0\konyvek.deps.json
+E:\School\konyvek\konyvek\bin\Debug\net8.0\konyvek.runtimeconfig.json
+E:\School\konyvek\konyvek\bin\Debug\net8.0\konyvek.dll
+E:\School\konyvek\konyvek\bin\Debug\net8.0\konyvek.pdb
+E:\School\konyvek\konyvek\obj\Debug\net8.0\konyvek.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\konyvek\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfoInputs.cache
+E:\School\konyvek\konyvek\obj\Debug\net8.0\konyvek.AssemblyInfo.cs
+E:\School\konyvek\konyvek\obj\Debug\net8.0\konyvek.csproj.CoreCompileInputs.cache
+E:\School\konyvek\konyvek\obj\Debug\net8.0\konyvek.dll
+E:\School\konyvek\konyvek\obj\Debug\net8.0\refint\konyvek.dll
+E:\School\konyvek\konyvek\obj\Debug\net8.0\konyvek.pdb
+E:\School\konyvek\konyvek\obj\Debug\net8.0\konyvek.genruntimeconfig.cache
+E:\School\konyvek\konyvek\obj\Debug\net8.0\ref\konyvek.dll
