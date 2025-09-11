@@ -1,0 +1,7 @@
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\asztalalk_2025-26\rendelesek\rendelesek\bin\Debug\rendelesek.exe.config
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\asztalalk_2025-26\rendelesek\rendelesek\bin\Debug\rendelesek.exe
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\asztalalk_2025-26\rendelesek\rendelesek\bin\Debug\rendelesek.pdb
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\asztalalk_2025-26\rendelesek\rendelesek\obj\Debug\rendelesek.csproj.AssemblyReference.cache
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\asztalalk_2025-26\rendelesek\rendelesek\obj\Debug\rendelesek.csproj.CoreCompileInputs.cache
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\asztalalk_2025-26\rendelesek\rendelesek\obj\Debug\rendelesek.exe
+C:\Users\putyo\Desktop\iSkOlAi FeLaDaToK\!! 2025-26\asztalalk_2025-26\rendelesek\rendelesek\obj\Debug\rendelesek.pdb
