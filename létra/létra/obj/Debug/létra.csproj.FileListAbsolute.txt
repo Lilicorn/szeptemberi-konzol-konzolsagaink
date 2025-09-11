@@ -1,0 +1,8 @@
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\bin\Debug\létra.exe.config
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\bin\Debug\létra.exe
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\bin\Debug\létra.pdb
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\obj\Debug\létra.csproj.AssemblyReference.cache
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\obj\Debug\létra.csproj.CoreCompileInputs.cache
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\obj\Debug\létra.exe
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\obj\Debug\létra.pdb
+Z:\!! 2025-26\asztalalk_2025-26\létra\létra\obj\Debug\létra.exe.config
